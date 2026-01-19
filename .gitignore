@@ -1,0 +1,22 @@
+# Bloqueio total de pastas de compilação
+target/
+bin/
+out/
+
+# Arquivos do Maven
+.mvn/
+mvnw
+mvnw.cmd
+.mvn/wrapper/maven-wrapper.jar
+
+# IDEs (VS Code, IntelliJ, Eclipse)
+.vscode/
+.idea/
+.settings/
+.classpath
+.project
+*.iml
+
+# Logs e arquivos temporários
+*.log
+temp/
